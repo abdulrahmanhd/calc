@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">calc</string>
+    <string name="btnRes" >Get Result</string>
+</resources>
